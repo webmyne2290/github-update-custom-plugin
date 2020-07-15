@@ -3,7 +3,7 @@
  * Plugin Name: Github Custom Update Plugin
  * Plugin URI: http://www.webmyne.com/
  * Description: This plugin works as custom plugin create and get update now in admin area
- * Version: 4.0
+ * Version: 5.0
  * Author: Webmyne
  * Author URI: http://www.webmyne.com/
  */
