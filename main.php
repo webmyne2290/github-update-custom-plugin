@@ -12,7 +12,7 @@
 include_once('UPDGitHubPluginUpdater.php');
 if ( is_admin() )
 {
-    new UPDGitHubPluginUpdater( __FILE__, 'webmyne2290', "pluginupdatenow" );
+    new UPDGitHubPluginUpdater( __FILE__, 'webmyne2290', "github-update-custom-plugin" );
 }
 /* End code at Update Plugin */
 
